@@ -1,6 +1,6 @@
 # Hi, I'm Nelson 👋
 
-📍 **Seattle WA** | 🐊 Florida Boy | 
+📍 **Seattle WA** | 💻 Learning by Building 
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -26,7 +26,8 @@
 
 ## What I'm Doing
 
-- **Learning Embedded Systems** - Edge AI is the next frontier of computing I want to be ready. 
+- **Open Source** - Trying to give back when I can. 
+- **Learning Rust & Embedded Systems** - Edge AI is the next frontier of computing I want to be ready. 
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
