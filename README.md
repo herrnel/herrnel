@@ -7,7 +7,7 @@
 ## About Me
 
 - **Open Source** - Exploring the chaotic world of open source. 
-- **Learning Rust & Embedded Systems** - Edge AI is the next frontier of computing I want to be ready. 
+- **Learning Rust & Embedded Systems** - People will wan their own AI one day so Edge AI will be the next frontier of computing. 
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
