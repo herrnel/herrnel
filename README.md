@@ -17,52 +17,20 @@
 
 > Stepping into the world of Embedded Systems, Robotics, and Agentic Application Development 
 
-## Current Projects
-
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/herrnel)
-
-## What I'm Doing
+## About Me
 
 - **Open Source** - Trying to give back when I can. 
 - **Learning Rust & Embedded Systems** - Edge AI is the next frontier of computing I want to be ready. 
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
-## Latest Blog Posts
+## GitHub Activity
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/herrnel)
 
 ## Connect
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](#)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/herrnel)
 
----
-
-
-### Core Beliefs
-
-> "The smartest and most successful people I know always found a way to make something with the resources"
-
-> "Building for fun always beats building for a resume"
-
-> "Commit"
-
-
-<details>
-<summary>Random Facts</summary>
- 
-- Colombian coffee or headaches
-- Golfing 2x week
-- Gym 4x week
-
-</details>
