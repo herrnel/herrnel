@@ -1,6 +1,6 @@
 # Hi, I'm Nelson 👋
 
-📍 **Seattle WA** | 💻 Learning by Building 
+📍 **Seattle WA** | 💻 Learning by Building
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
