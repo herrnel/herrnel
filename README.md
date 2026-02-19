@@ -6,10 +6,12 @@
 
 ## About Me
 
-- **Open Source** - Trying to give back when I can. 
+- **Open Source** - Exploring the chaotic world of open source. 
 - **Learning Rust & Embedded Systems** - Edge AI is the next frontier of computing I want to be ready. 
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
+
+## What I Use
 
 **Workflow:**
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
@@ -32,6 +34,9 @@
 
 
 ## GitHub Activity
+
+- This looks bad... I code I promise I just don't push often. Working on getting better at that. 
+
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/herrnel)
 
