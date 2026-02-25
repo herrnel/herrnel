@@ -6,10 +6,17 @@
 
 ## About Me
 
-- **Open Source** - Exploring the chaotic world of open source. 
+- **Open Source** - Exploring the chaotic world of OSS. 
 - **Learning Rust & Embedded Systems** - People will wan their own AI one day so Edge AI will be the next frontier of computing. 
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
+
+
+## Current Projects
+
+[Peripheral Vision](https://github.com/herrnel/peripheral-vision) 👀 - CLI Tool used to find peripherals connected to my device.
+
+
 
 ## What I Use
 
