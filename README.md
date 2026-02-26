@@ -14,7 +14,8 @@
 
 ## Current Projects
 
-[Peripheral Vision](https://github.com/herrnel/peripheral-vision) 👀 - CLI Tool used to find peripherals connected to my device.
+🦅 [Albatross](https://github.com/herrnel/Albatross) – Autonomous Drone Competition System
+👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.
 
 
 
