@@ -1,6 +1,6 @@
 # Hi, I'm Nelson 👋
 
-📍 **Seattle WA** | 💻 Learning by Building
+📍 **Seattle WA** | 💻 Learning by Building | 
 
 > Stepping into the world of Embedded Systems, Robotics, and Agentic Application Development 
 
