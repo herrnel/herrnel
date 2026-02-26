@@ -1,6 +1,6 @@
 # Hi, I'm Nelson 👋
 
-📍 **Seattle WA** | 💻 Learning by Building | 
+📍 **Seattle WA** | 💻 Learning by Building | 🪴 Trying to grow a little each day
 
 > Stepping into the world of Embedded Systems, Robotics, and Agentic Application Development 
 
@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-🦅 [Albatross](https://github.com/herrnel/Albatross) – Autonomous Drone Competition System
+🦅 [Albatross](https://github.com/herrnel/Albatross) – Autonomous Drone Competition System \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.
 
 
