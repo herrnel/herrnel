@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-🦅 [Albatross](https://github.com/herrnel/Albatross) – Autonomous Drone Racing Competition System \
+🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.
 
 
