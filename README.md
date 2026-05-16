@@ -6,7 +6,7 @@
 
 ## About Me
 
-- **Open Source** - Exploring the chaotic world of OSS. 
+- **Open Source** - Exploring the chaotic world of OSS.
 - **Learning Rust & Embedded Systems** - Having a good understanding of system softare is foundational for me. 
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
@@ -17,7 +17,9 @@
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross)) \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.
 
+## Current Contributions
 
+Contributing to [Pi][https://github.com/earendil-works/pi.git]
 
 ## What I Use
 
