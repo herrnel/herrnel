@@ -19,7 +19,7 @@
 
 ## Current Contributions
 
-Contributing to [Pi][https://github.com/earendil-works/pi.git]
+Contributing to [Pi](https://github.com/earendil-works/pi.git)
 
 ## What I Use
 
