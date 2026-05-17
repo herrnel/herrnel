@@ -1,21 +1,29 @@
 # Hi, I'm Nelson 👋
 
-📍 **Seattle WA** | 💻 Learning by Building | 🪴 Trying to grow a little each day
+📍 **Seattle WA** | 💻 Learning by Building | 🪴 Going an Extra Layer Deep with everything
 
 > Stepping into the world of Embedded Systems, Robotics, and Agentic Application Development 
 
 ## About Me
 
 - **Open Source** - Exploring the chaotic world of OSS.
-- **Learning Rust & Embedded Systems** - Having a good understanding of system softare is foundational for me. 
+- **Learning Rust & Embedded Systems** - Having a good understanding of system softare is foundational for me. [Rust Embedded MB2 Discovery Book](https://docs.rust-embedded.org/discovery-mb2/index.html)
+- **Learning about Networking** - Sockets, IP, TCP, UDP, etc. My favorite resource: [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
 
 ## Current Projects
 
-🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross)) \
-👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.
+#### *Coding Agents* 
+
+🥧 [Personal Pi Extentions](url) - Extension for Pi. Posted on as npm packages for anyone to use. \
+👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device. 
+
+#### *Computer Vision/Robotics*
+🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
+
+#### *Past projects*
 
 ## Current Contributions
 
