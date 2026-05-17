@@ -28,7 +28,7 @@
 ## Past projects
 
 🪶[LocalFalcon](https://www.localfalcon.com/) - I helped designed and developed a full-stack geospatial SEO tracking web application to monitor search visibility across specific locations.
-
+[Paralax Website](https://github.com/herrnel/Paralax-Scroll-Website) - This is actually my first ever github project. I wanted to build my own paralax scoll using HTML CSS, and JavaScript. 
 
 ## What I Use
 
@@ -67,4 +67,3 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/herrnel)
-
