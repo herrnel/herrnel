@@ -17,7 +17,7 @@
 
 #### *Coding Agents* 
 
-🥧 [Personal Pi Extentions](url) - Extension for Pi. Posted on as npm packages for anyone to use. \
+🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device. 
 
 #### *Computer Vision/Robotics*
