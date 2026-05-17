@@ -20,7 +20,7 @@
 
 🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. Contributing to [Pi](https://github.com/earendil-works/pi.git) \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
-📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Any updates I make to it I just have a CLI agent to ensure it syncs across my devices using [Chezmoi](https://www.chezmoi.io/).
+📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using Agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
 #### *Computer Vision/Robotics*
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
