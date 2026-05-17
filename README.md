@@ -16,11 +16,11 @@
 
 ## Current Projects
 
-#### *Coding Agents* 
+#### *CLI & Coding Agents* 
 
 🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. Contributing to [Pi](https://github.com/earendil-works/pi.git) \
-👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device. 
-
+👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
+📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Any updates I make to it I just have a CLI agent to ensure it syncs across my devices using [Chezmoi](https://www.chezmoi.io/).
 
 #### *Computer Vision/Robotics*
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
@@ -29,6 +29,7 @@
 
 🪶[LocalFalcon](https://www.localfalcon.com/) - I helped designed and developed a full-stack geospatial SEO tracking web application to monitor search visibility across specific locations.
 
+
 ## What I Use
 
 **Workflow:**
@@ -36,7 +37,9 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white) 
+
+
 
 **Embedded Languages:**
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
