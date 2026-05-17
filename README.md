@@ -2,13 +2,14 @@
 
 📍 **Seattle WA** | 💻 Learning by Building | 🪴 Going an Extra Layer Deep with everything
 
-> Stepping into the world of Embedded Systems, Robotics, and Agentic Application Development 
+> "What I cannot build, I do not understand" \
+>                        - _Richard Feynman_
 
 ## About Me
 
 - **Open Source** - Exploring the chaotic world of OSS.
-- **Learning Rust & Embedded Systems** - Having a good understanding of system softare is foundational for me. [Rust Embedded MB2 Discovery Book](https://docs.rust-embedded.org/discovery-mb2/index.html)
-- **Learning about Networking** - Sockets, IP, TCP, UDP, etc. My favorite resource: [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
+- **Learning Rust & Embedded Systems** - My favorite resource ATM is [Rust Embedded MB2 Discovery Book](https://docs.rust-embedded.org/discovery-mb2/index.html)
+- **Learning about Networking** - Sockets, IP, TCP, UDP, etc through [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
@@ -21,16 +22,12 @@
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device. 
 
 
-
 #### *Computer Vision/Robotics*
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
 
 ## Past projects
 
 🪶[LocalFalcon](https://www.localfalcon.com/) - I helped designed and developed a full-stack geospatial SEO tracking web application to monitor search visibility across specific locations.
-
-
-
 
 ## What I Use
 
