@@ -26,6 +26,7 @@ Contributing to [Pi](https://github.com/earendil-works/pi.git)
 **Workflow:**
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
 
