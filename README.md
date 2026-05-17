@@ -17,17 +17,20 @@
 
 #### *Coding Agents* 
 
-🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. \
+🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. Contributing to [Pi](https://github.com/earendil-works/pi.git) \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device. 
+
+
 
 #### *Computer Vision/Robotics*
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
 
-#### *Past projects*
+## Past projects
 
-## Current Contributions
+🪶[LocalFalcon](https://www.localfalcon.com/) - I helped designed and developed a full-stack geospatial SEO tracking web application to monitor search visibility across specific locations.
 
-Contributing to [Pi](https://github.com/earendil-works/pi.git)
+
+
 
 ## What I Use
 
