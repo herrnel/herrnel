@@ -24,10 +24,10 @@ Contributing to [Pi](https://github.com/earendil-works/pi.git)
 ## What I Use
 
 **Workflow:**
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
 
 **Embedded Languages:**
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
