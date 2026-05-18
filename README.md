@@ -14,22 +14,22 @@
 - **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
 
-## Current Projects
+## Projects
 
-#### OS and Embedded Systems
+### OS and Embedded Systems
 
 🔢 [VM and Compiler for PL/0](https://github.com/herrnel/VM-SYSSOFT) - VM and Compiler for the PL/0 language. 
 
-#### *CLI & Coding Agents* 
+### CLI & Coding Agents
 
 🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. Contributing to [Pi](https://github.com/earendil-works/pi.git) \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
 📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
-#### *Computer Vision/Robotics*
+### Computer Vision/Robotics
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
 
-## Past projects
+### Web and App Development
 
 🪶 [LocalFalcon](https://www.localfalcon.com/) - I designed and developed a website that visualizes SEO metrics on a map for businesses. \
 📓 [StudyBuddy](https://github.com/herrnel/StudyBuddy) - Website to find study partners based on your class registration. My first hackathon project. \
