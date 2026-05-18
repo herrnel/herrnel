@@ -28,6 +28,7 @@
 
 ### Computer Vision/Robotics
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross)) \
+🐜 [LLM-Webscraper](https://github.com/herrnel/LLM-Webscraper) - Tried to build a webscrapper using OpenAI's image recoginition api. Token's were too expensive at the time. \
 🪽[FlappyBirdAI](https://github.com/herrnel/FlappyBirdAI) - My first ML project. Trained a network to beat flappy through evolution. 
 
 ### Web and App Development
