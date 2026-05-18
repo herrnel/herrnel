@@ -27,7 +27,8 @@
 📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
 ### Computer Vision/Robotics
-🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
+🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross)) \
+🪽[FlappyBirdAI](https://github.com/herrnel/FlappyBirdAI) - My first ML project. Trained a network to beat flappy through evolution. 
 
 ### Web and App Development
 
