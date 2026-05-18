@@ -16,11 +16,15 @@
 
 ## Current Projects
 
+#### OS and Embedded Systems
+
+🔢 [VM and Compiler for PL/0](https://github.com/herrnel/VM-SYSSOFT) - VM and Compiler for the PL/0 language. 
+
 #### *CLI & Coding Agents* 
 
 🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. Contributing to [Pi](https://github.com/earendil-works/pi.git) \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
-📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using Agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
+📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
 #### *Computer Vision/Robotics*
 🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross))
