@@ -16,9 +16,10 @@
 
 ## Projects
 
-### OS and Embedded Systems
+### OS, Embedded Systems, and low level stuff
 
-🔢 [VM and Compiler for PL/0](https://github.com/herrnel/VM-SYSSOFT) - VM and Compiler for the PL/0 language. 
+🔢 [VM and Compiler for PL/0](https://github.com/herrnel/VM-SYSSOFT) - VM and Compiler for the PL/0 language. \
+🧵 [OpenMP Practice](https://github.com/herrnel/OpenMP-Playground) - Played around with OpenMP to learn about multithreading. 
 
 ### CLI & Coding Agents
 
