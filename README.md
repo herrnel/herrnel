@@ -33,6 +33,7 @@
 ### Web and App Development
 
 🪶 [LocalFalcon](https://www.localfalcon.com/) - I designed and developed a website that visualizes SEO metrics on a map for businesses. \
+🗓️ [WeekWise](https://github.com/herrnel/WeekWise) - This little unfinished project was my attempt at creating a calendar that uses Agents to schedule my days \
 📓 [StudyBuddy](https://github.com/herrnel/StudyBuddy) - Website to find study partners based on your class registration. My first hackathon project. \
 🗺️ [Pathfinding Algorithm Visualizer](https://github.com/herrnel/Path-Finding-Visualizer) - This was my first real personal project. \
 📜 [Paralax Scroll](https://github.com/herrnel/Paralax-Scroll-Website) - This is actually my first ever github project. Just a simple paralax scroll example. 
