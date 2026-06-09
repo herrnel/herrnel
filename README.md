@@ -21,7 +21,7 @@
 🧵 [OpenMP-Playground](https://github.com/herrnel/OpenMP-Playground) - Played around with OpenMP to learn about multithreading. 
 
 ### CLI & Coding Agents
-⏎  [ClankerYank](https://github.com/herrnel/clankeryank) - Highlight and yank code from NVIM straight into a Pi agent.
+⏎  [ClankerYank](https://github.com/herrnel/clankeryank) - Highlight and yank code from NVIM straight into a Pi agent. \
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
 📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
