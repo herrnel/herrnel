@@ -7,7 +7,7 @@
 
 ## About Me
 
-- **Open Source** - Exploring the chaotic world of OSS.
+- **Open Source** - Exploring the chaotic world of OSS. Contributing to [Pi](https://github.com/earendil-works/pi.git)
 - **Learning Rust & Embedded Systems** - My favorite resource ATM is [Rust Embedded MB2 Discovery Book](https://docs.rust-embedded.org/discovery-mb2/index.html)
 - **Learning about Networking** - Sockets, IP, TCP, UDP, etc through [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
 - **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
@@ -17,13 +17,11 @@
 ## Projects
 
 ### OS, Embedded Systems, and low level stuff
-
 🔢 [VM and Compiler for PL/0](https://github.com/herrnel/VM-SYSSOFT) - VM and Compiler for the PL/0 language. \
 🧵 [OpenMP-Playground](https://github.com/herrnel/OpenMP-Playground) - Played around with OpenMP to learn about multithreading. 
 
 ### CLI & Coding Agents
-
-🥧 [Pi Extentions](url) - My extension for Pi Coding Agent. Posted on as npm packages for anyone to use. Contributing to [Pi](https://github.com/earendil-works/pi.git) \
+⏎  [ClankerYank](https://github.com/herrnel/clankeryank) - Highlight and yank code from NVIM straight into a Pi agent.
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
 📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
