@@ -1,6 +1,6 @@
 # Hi, I'm Nelson 👋
 
-📍 **Kirkland WA** | 💻 Learning by Building | 
+📍 **Kirkland WA** | 💻 Learning by Building 
 
 ## About Me
 
