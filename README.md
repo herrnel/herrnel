@@ -1,20 +1,23 @@
 # Hi, I'm Nelson 👋
 
-📍 **Seattle WA** | 💻 Learning by Building | 🪴 Going an Extra Layer Deep with everything
-
-> "What I cannot build, I do not understand" \
->                        - _Richard Feynman_
+📍 **Kirkland WA** | 💻 Learning by Building | 
 
 ## About Me
 
+- **Exploring Autonomous Systems** - Learning about state estimation and probabilistic robotics. 
 - **Open Source** - Exploring the chaotic world of OSS. Contributing to [Pi](https://github.com/earendil-works/pi.git)
 - **Learning Rust & Embedded Systems** - My favorite resource ATM is [Rust Embedded MB2 Discovery Book](https://docs.rust-embedded.org/discovery-mb2/index.html)
 - **Learning about Networking** - Sockets, IP, TCP, UDP, etc through [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
-- **Exploring Autonomous Systems** - Trying out Autonomous Robotics in Simulators for fun. 
-- **Blogging about my AI/Projects/Tools/News** - Sharing my learnings on [herrnel.me](https://herrnel.me)
 
 
 ## Projects
+
+
+### Robotics, Autonomy, and Computer Vision
+ 🤖 [Sentry @ ARUW](https://gitlab.com/aruw/vision/project-otto) - Autonomous Robot for the Robomasters Competition. \
+🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. \
+🐜 [LLM-Webscraper](https://github.com/herrnel/LLM-Webscraper) - Tried to build a webscrapper using OpenAI's image recoginition api. Token's were too expensive at the time. \
+🪽[FlappyBirdAI](https://github.com/herrnel/FlappyBirdAI) - My first ML project. Trained a network to beat flappy through evolution. 
 
 ### OS, Embedded Systems, and low level stuff
 🔢 [VM and Compiler for PL/0](https://github.com/herrnel/VM-SYSSOFT) - VM and Compiler for the PL/0 language. \
@@ -25,12 +28,7 @@
 👀 [Peripheral Vision](https://github.com/herrnel/peripheral-vision) - CLI Tool used to find peripherals connected to my device.\
 📟 [My Terminal Configuration](https://github.com/herrnel/nvim-config) - Still use this daily. Frequently update it using agents and sync changes with [Chezmoi](https://www.chezmoi.io/).
 
-### Computer Vision/Robotics
-🦅 [Albatross](https://github.com/herrnel/Albatross) – Drone Racing Autonomy Stack. ([blog](https://blog.herrnel.com/series/albatross)) \
-🐜 [LLM-Webscraper](https://github.com/herrnel/LLM-Webscraper) - Tried to build a webscrapper using OpenAI's image recoginition api. Token's were too expensive at the time. \
-🪽[FlappyBirdAI](https://github.com/herrnel/FlappyBirdAI) - My first ML project. Trained a network to beat flappy through evolution. 
-
-### Web and App Development
+### Web and App Development (older projects)
 
 🪶 [LocalFalcon](https://www.localfalcon.com/) - I designed and developed a website that visualizes SEO metrics on a map for businesses. \
 🎮 [TopTierGames](https://github.com/herrnel/TopTier-Games) - LetterBoxed for games. \
